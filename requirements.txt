@@ -1,0 +1,7 @@
+# Planet X - SPHEREx Explorer (Python 3.10+). Five runtime dependencies, no build tools.
+# Tested with: astropy 8.0.2, numpy 2.5.4, fastapi 0.162.7, uvicorn 0.54.0, httpx 0.28.1 (Python 3.12, Windows 11)
+astropy>=6.0
+numpy>=1.24
+fastapi>=0.110
+uvicorn>=0.27
+httpx>=0.27
